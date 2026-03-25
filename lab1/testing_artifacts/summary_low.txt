@@ -1,0 +1,8 @@
+case=low
+bw=lab1-bw-low.txt
+alpha=0.5
+chunk_count=      30
+log_lines=      30
+first_line=0.057148 0.577597 217660.446897 217660.446897 292312 bunny_292312_00000.m4s
+last_line=15.189643 0.747849 217926.349713 219320.799285 292312 bunny_292312_00029.m4s
+bitrates=292312 

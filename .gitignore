@@ -20,6 +20,8 @@ htmlcov/
 
 # OS
 .DS_Store
+*.zip
 
 # Jupyter
 .ipynb_checkpoints/
+

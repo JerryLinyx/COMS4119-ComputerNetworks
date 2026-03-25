@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD mediaPresentationDuration="30.0" maxSegmentDuration="1.0">
+    <Period>
+        <AdaptationSet>
+            <Representation bandwidth="3676374"/>
+            <Representation bandwidth="1791962"/>
+            <Representation bandwidth="987680"/>
+            <Representation bandwidth="612790"/>
+            <Representation bandwidth="292312"/>
+        </AdaptationSet>
+    </Period>
+</MPD>
