@@ -25,3 +25,9 @@ htmlcov/
 # Jupyter
 .ipynb_checkpoints/
 
+# Assignment artifacts
+log_*.txt
+lab2_sub/
+
+# Local tool metadata
+.claude/
